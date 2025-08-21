@@ -1,36 +1,25 @@
-# 📱 Irmãos Cell*
-
-Bem-vindo ao repositório oficial da **Irmãos Cell**, sua loja de confiança em celulares e acessórios!
-
-Este projeto é uma aplicação web desenvolvida para apresentar os produtos disponíveis na loja, incluindo smartphones de diversas marcas, capas, fones de ouvido, carregadores e outros acessórios essenciais para seu dia a dia.
+# Projeto : Irmãos Cell
 
 ---
 
-## 🛍️ Sobre a Loja
+## Especificações.
 
-A **Irmãos Cell** nasceu com o objetivo de oferecer qualidade, bom atendimento e os melhores preços em tecnologia mobile. Aqui você encontra:
-
-- Celulares novos e seminovos
-- Acessórios originais e compatíveis
-- Suporte técnico e atendimento personalizado
+Aplicação web simples para apresentar celulares e acessórios, facilitando a visualização dos produtos disponíveis na loja.
 
 ---
 
-## 💻 Tecnologias Utilizadas
-
-Este projeto foi desenvolvido com as seguintes tecnologias:
+## Tecnologias Utilizadas
 
 - HTML5  
 - CSS3  
 - JavaScript  
-- React (ou outra tecnologia usada, se for o caso)
+- React
 
 ---
 
-## 🌐 Funcionalidades
+## O que aprendii
 
-- 📱 Catálogo de celulares com descrição e preço  
-- 🎧 Listagem de acessórios por categoria  
-- 🔍 Barra de busca para encontrar produtos  
-- 🛒 Simulação de carrinho de compras (opcional)  
-- 📞 Informações de contato e redes sociais  
+- Criação de interfaces responsivas  
+- Organização e exibição de produtos em categorias  
+- Manipulação básica do DOM e eventos  
+- Uso de componentes (se aplicável, no React)  
